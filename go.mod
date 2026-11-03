@@ -1,3 +1,3 @@
 module github.com/nnhntr/nataliehunterart.com
 
-go 1.20
+go 1.27.3
